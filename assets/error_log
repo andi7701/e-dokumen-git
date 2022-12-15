@@ -1,0 +1,10 @@
+[12-May-2018 14:04:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function domxml_new_doc() in /home/ahmahcic/wongselo.com/ais/assets/mapmarkers.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/assets/mapmarkers.php on line 10
+[12-May-2018 14:08:35 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/ahmahcic/wongselo.com/ais/assets/mapmarkers.php on line 26
+[12-May-2018 14:08:35 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ahmahcic/wongselo.com/ais/assets/mapmarkers.php on line 28
+[01-May-2020 03:22:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/ahmahcic/shoclean.wongselo.com/assets/sidebar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/assets/sidebar.php on line 7

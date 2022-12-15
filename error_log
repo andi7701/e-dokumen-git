@@ -1,0 +1,408 @@
+[14-May-2018 10:59:25 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 10:59:26 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 10:59:27 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 10:59:31 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 10:59:38 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 10:59:42 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 10:59:43 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 10:59:46 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 11:02:02 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 11:02:03 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 11:02:09 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[14-May-2018 11:02:11 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/wongselo.com/ais/system/core/Common.php on line 658 and defined in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/wongselo.com/ais/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/wongselo.com/ais/system/core/Exceptions.php on line 190
+[20-Apr-2020 06:50:19 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[20-Apr-2020 06:50:33 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[20-Apr-2020 06:50:49 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[20-Apr-2020 06:51:05 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[20-Apr-2020 06:51:07 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[20-Apr-2020 06:51:09 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[20-Apr-2020 06:51:22 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[20-Apr-2020 06:51:29 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[23-Apr-2020 09:39:21 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[28-Apr-2020 04:23:40 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[28-Apr-2020 04:24:18 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[28-Apr-2020 04:27:27 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[28-Apr-2020 04:27:50 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[28-Apr-2020 08:08:03 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[28-Apr-2020 08:08:32 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[01-May-2020 04:02:00 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[01-May-2020 04:02:09 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[01-May-2020 04:03:44 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[01-May-2020 04:38:34 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[01-May-2020 04:41:16 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[01-May-2020 04:43:36 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[01-May-2020 04:46:15 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[01-May-2020 04:57:11 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/shoclean.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/shoclean.wongselo.com/system/core/Exceptions.php on line 190
+[16-Sep-2020 09:29:27 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[17-Sep-2020 07:17:37 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[25-Sep-2020 15:08:37 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[25-Sep-2020 15:25:14 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[26-Sep-2020 11:13:48 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[26-Sep-2020 11:14:23 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[27-Sep-2020 02:32:33 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[27-Sep-2020 02:32:37 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 00:57:25 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 00:58:33 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:03:47 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:04:21 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:06:11 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:09:27 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:12:56 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:15:35 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:22:02 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:24:17 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:26:30 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:27:43 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:28:09 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:28:34 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:33:42 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:42:51 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:44:03 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 01:48:39 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[29-Sep-2020 02:06:58 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/sik.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/sik.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/sik.wongselo.com/system/core/Exceptions.php on line 190
+[06-Oct-2020 20:32:16 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php on line 190
+[28-Oct-2020 12:23:39 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php on line 190
+[28-Oct-2020 12:24:04 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php on line 190
+[28-Oct-2020 12:24:26 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php on line 190
+[12-Jan-2021 03:04:28 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php on line 190
+[12-Jan-2021 03:10:23 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php on line 658 and defined in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/ahmahcic/biomotor.wongselo.com/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/ahmahcic/biomotor.wongselo.com/system/core/Exceptions.php on line 190
